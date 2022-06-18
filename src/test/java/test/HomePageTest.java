@@ -8,6 +8,8 @@ import pages.HomePage;
 public class HomePageTest extends BaseTest {
 	HomePage hp;
 	//it is before class
+	
+	//commit should be done properly
 	@BeforeClass
 	public void initObject() {
 	 hp=new HomePage(driver);
