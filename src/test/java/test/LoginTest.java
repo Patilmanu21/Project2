@@ -16,7 +16,7 @@ import pages.LoginPage;
 public class LoginTest extends BaseTest{
 	
 	LoginPage lp;
-	
+	//add this to commit
 	
 	@BeforeClass
 	public void initObject() {
