@@ -16,6 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class BaseTest {
 	//add this oprojecet
 	//update this to github
+	//going to usage
 	public static WebDriver driver;
 	public Properties prop;
 	public FileInputStream fis;
